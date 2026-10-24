@@ -1,32 +1,39 @@
 # Python Journey 🐍
 
-A personal repository documenting my journey of learning Python and programming fundamentals.
+Welcome to my Python learning journey! This repository documents my progress as I learn Python, practice programming concepts, and build my problem-solving skills step by step.
 
-## 📚 Topics Covered
+## 🎯 Goals
+- Build a solid foundation in Python
+- Practice coding through exercises
+- Develop problem-solving skills
+- Build practical projects
+- Track my progress over time
 
-- Variables, data types, and user input
-- Arithmetic operations
-- Conditional statements (`if`, `elif`, `else`)
-- Exception handling (`try`, `except`, `else`, `finally`)
-- String methods and operations
-- Logical operators
-- Lists and nested lists
-- Loops and list iteration
-- Basic calculator programs
-- Simple login validation
+## 📚 Learning Progress
 
-## 📁 Repository Structure
+### Python Fundamentals
+- [x] Lesson 1 — Variables, Data Types, Input & Arithmetic
+- [x] Lesson 2 — Conditions & Exception Handling
+- [x] Lesson 3 — Strings & Logical Operators
+- [x] Lesson 4 — Conditional Expressions, Lists & Loops
+- [ ] Lesson 5
+- [ ] Lesson 6
+- [ ] Lesson 7
+- [ ] Lesson 8
+- [ ] Lesson 9
+- [ ] Lesson 10
+- [ ] Lesson 11
+- [ ] Lesson 12
+- [ ] Lesson 13
+- [ ] Lesson 14
+- [ ] Lesson 15
 
-- `py1-4.py` — Practice examples from Python lessons 1–4
+### Projects
+- [ ] First Python project
+- [ ] More projects coming soon
 
-## 🎯 Goal
+## 📈 Progress Tracking
 
-Build a strong foundation in Python, improve problem-solving skills, and gradually develop practical programming projects.
+I'll keep updating this checklist as I complete lessons, practice new concepts, and work on projects.
 
-## 🚀 Progress
-
-This repository will be updated as I learn new concepts and complete more exercises.
-
----
-
-*Learning step by step, coding consistently.*
+**One step at a time. Learning
