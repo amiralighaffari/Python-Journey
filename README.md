@@ -1,16 +1,32 @@
-#-Python Journey
+# Python Journey 🐍
 
-This repository documents my journey of learning Python and building programming skills for my future studies in Computer Engineering.
+A personal repository documenting my journey of learning Python and programming fundamentals.
 
-## Goals
-- Learn Python fundamentals
-- Practice problem-solving
-- Build small programming projects
-- Track my progress using Git and GitHub
+## 📚 Topics Covered
 
-## Progress
-- [x] Python Lessons 1–4
-- [ ] Python Lessons 5–15
-- [ ] First independent Python project
+- Variables, data types, and user input
+- Arithmetic operations
+- Conditional statements (`if`, `elif`, `else`)
+- Exception handling (`try`, `except`, `else`, `finally`)
+- String methods and operations
+- Logical operators
+- Lists and nested lists
+- Loops and list iteration
+- Basic calculator programs
+- Simple login validation
 
-More updates coming soon!
+## 📁 Repository Structure
+
+- `py1-4.py` — Practice examples from Python lessons 1–4
+
+## 🎯 Goal
+
+Build a strong foundation in Python, improve problem-solving skills, and gradually develop practical programming projects.
+
+## 🚀 Progress
+
+This repository will be updated as I learn new concepts and complete more exercises.
+
+---
+
+*Learning step by step, coding consistently.*
