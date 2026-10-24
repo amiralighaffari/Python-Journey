@@ -1,4 +1,4 @@
-# Project USA — Python Journey
+# Python Journey
 
 This repository documents my journey of learning Python and building programming skills for my future studies in Computer Engineering.
 
