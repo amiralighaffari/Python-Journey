@@ -16,7 +16,7 @@ Welcome to my Python learning journey! This repository documents my progress as 
 - [x] Lesson 2 — Conditions & Exception Handling
 - [x] Lesson 3 — Strings & Logical Operators
 - [x] Lesson 4 — Conditional Expressions, Lists & Loops
-- [x] Lesson 5 — Python Fundamentals Practice
+- [x] Lesson 5 — Lists, List Comprehensions & Tuples
 - [ ] Lesson 6
 - [ ] Lesson 7
 - [ ] Lesson 8
