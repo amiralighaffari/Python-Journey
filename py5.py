@@ -46,10 +46,10 @@ a=numbers[1:4]
 b=numbers[4:]
 c=numbers[:3]
 numbers=[8, 3, 1, 9, 4, 2]
-koochak=sorted(numbers)
-print(koochak)
-bozorg=sorted(numbers, reverse=True )
-print(bozorg)
+p=sorted(numbers)
+print(p)
+s=sorted(numbers, reverse=True )
+print(s)
 copi=numbers.copy()
 copi.sort(reverse=True)
 print(copi)
