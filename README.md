@@ -35,5 +35,4 @@ Welcome to my Python learning journey! This repository documents my progress as 
 ## 📈 Progress Tracking
 
 I'll keep updating this checklist as I complete lessons, practice new concepts, and work on projects.
-
-**One step at a time. Learning
+**One step at a time. Learning by doing.**
