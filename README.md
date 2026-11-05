@@ -1,8 +1,10 @@
+
 # Python Journey 🐍
 
 Welcome to my Python learning journey! This repository documents my progress as I learn Python, practice programming concepts, and build my problem-solving skills step by step.
 
 ## 🎯 Goals
+
 - Build a solid foundation in Python
 - Practice coding through exercises
 - Develop problem-solving skills
@@ -12,12 +14,13 @@ Welcome to my Python learning journey! This repository documents my progress as 
 ## 📚 Learning Progress
 
 ### Python Fundamentals
+
 - [x] Lesson 1 — Variables, Data Types, Input & Arithmetic
 - [x] Lesson 2 — Conditions & Exception Handling
 - [x] Lesson 3 — Strings & Logical Operators
 - [x] Lesson 4 — Conditional Expressions, Lists & Loops
 - [x] Lesson 5 — Lists, List Comprehensions & Tuples
-- [ ] Lesson 6
+- [x] Lesson 6 — Sets & Dictionaries
 - [ ] Lesson 7
 - [ ] Lesson 8
 - [ ] Lesson 9
@@ -29,10 +32,13 @@ Welcome to my Python learning journey! This repository documents my progress as 
 - [ ] Lesson 15
 
 ### Projects
+
 - [ ] First Python project
 - [ ] More projects coming soon
 
 ## 📈 Progress Tracking
+
+**Completed:** 6 / 15 Lessons (40%)
 
 I'll keep updating this checklist as I complete lessons, practice new concepts, and work on projects.
 
