@@ -1,4 +1,3 @@
-
 # Python Journey 🐍
 
 Welcome to my Python learning journey! This repository documents my progress as I learn Python, practice programming concepts, and build my problem-solving skills step by step.
@@ -21,7 +20,7 @@ Welcome to my Python learning journey! This repository documents my progress as 
 - [x] Lesson 4 — Conditional Expressions, Lists & Loops
 - [x] Lesson 5 — Lists, List Comprehensions & Tuples
 - [x] Lesson 6 — Sets & Dictionaries
-- [ ] Lesson 7
+- [x] Lesson 7 — Functions, Arguments, *args, **kwargs & Return
 - [ ] Lesson 8
 - [ ] Lesson 9
 - [ ] Lesson 10
@@ -38,7 +37,7 @@ Welcome to my Python learning journey! This repository documents my progress as 
 
 ## 📈 Progress Tracking
 
-**Completed:** 6 / 15 Lessons (40%)
+**Completed:** 7 / 15 Lessons (47%)
 
 I'll keep updating this checklist as I complete lessons, practice new concepts, and work on projects.
 
